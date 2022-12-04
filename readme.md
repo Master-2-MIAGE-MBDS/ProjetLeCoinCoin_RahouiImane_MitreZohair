@@ -13,7 +13,6 @@ Le site e-commerce de la societé LECOINCOIN qui est une société familiale qui
 
 Au niveau de ce site on trouve 3 roles importants :
 
-- Moderator : 
 ### 1. Client : 
   
   Ce rôle designe l'utiliateur ayant le moins de privilèges. Il peut simplement :

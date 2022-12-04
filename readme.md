@@ -5,21 +5,6 @@
 ## SI VOUS SOUHAITEZ TESTER LE CODE 
 Il suffit de changer le basePath au niveau du fichier *application.yml*
 
-
-# La Démonstration :
-
-## 1 -> 5
-
-https://user-images.githubusercontent.com/77898496/205471659-d5c06fd1-c8f0-4e34-b62d-cc26c64294df.mp4
-
-## 6 -> 7
-
-https://user-images.githubusercontent.com/77898496/205472204-5219f6a1-08e2-49b7-a76b-96c353074888.mp4
-
-## 8 -> 12
-
-https://user-images.githubusercontent.com/77898496/205472176-0f085595-0a98-40ba-8ad0-2d180e1572ad.mp4
-
 # I. Présentation : 
 
 Le site e-commerce de la societé LECOINCOIN qui est une société familiale qui existe depuis 1940, gérée par Mr Gerard Lecoincoin et Mme Mathilde Lecoincoin.C'est une entreprise de dépôt vente touchant à tout ce qui peut se vendre ou s’acheter.
@@ -84,4 +69,17 @@ Le chiffrement des passwords se fait à l'aide de spring security
 
 Nous avons réussi à ajouter la fonctionnalité d'ajout de multiple illustrations en meme temps.
 
+# V. Démonstration :
+
+## 1 -> 5
+
+https://user-images.githubusercontent.com/77898496/205471659-d5c06fd1-c8f0-4e34-b62d-cc26c64294df.mp4
+
+## 6 -> 7
+
+https://user-images.githubusercontent.com/77898496/205472204-5219f6a1-08e2-49b7-a76b-96c353074888.mp4
+
+## 8 -> 12
+
+https://user-images.githubusercontent.com/77898496/205472176-0f085595-0a98-40ba-8ad0-2d180e1572ad.mp4
 

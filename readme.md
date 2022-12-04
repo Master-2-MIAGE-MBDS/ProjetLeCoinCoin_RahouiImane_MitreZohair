@@ -2,7 +2,7 @@
   - *MITRE Zohair*
   - *RAHOUI Imane*
 
-## La version finale du code est situé dans la branche **Final**
+## La version finale du code est situé dans la branche *Final*
 
 ## SI VOUS SOUHAITEZ TESTER LE CODE 
 Il suffit de changer le basePath au niveau du fichier *application.yml*
